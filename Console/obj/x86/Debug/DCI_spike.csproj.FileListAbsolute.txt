@@ -1,0 +1,10 @@
+C:\Projects\MND\source\DCI_spike\Console\bin\Debug\DCI_spike.exe
+C:\Projects\MND\source\DCI_spike\Console\bin\Debug\DCI_spike.pdb
+C:\Projects\MND\source\DCI_spike\Console\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projects\MND\source\DCI_spike\Console\obj\x86\Debug\DCI_spike.exe
+C:\Projects\MND\source\DCI_spike\Console\obj\x86\Debug\DCI_spike.pdb
+C:\Projects\DCI_spike\Console\obj\x86\Debug\DCI_spike.exe
+C:\Projects\DCI_spike\Console\obj\x86\Debug\DCI_spike.pdb
+C:\Projects\DCI_spike\Console\bin\Debug\DCI_spike.exe
+C:\Projects\DCI_spike\Console\bin\Debug\DCI_spike.pdb
+C:\Projects\DCI_spike\Console\obj\x86\Debug\ResolveAssemblyReference.cache
